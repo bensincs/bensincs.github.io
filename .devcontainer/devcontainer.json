@@ -1,0 +1,4 @@
+{
+  "name": "bensincs.github.io - devcontainer",
+  "image": "mcr.microsoft.com/devcontainers/typescript-node:latest"
+}
